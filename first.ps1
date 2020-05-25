@@ -1,14 +1,14 @@
 #########################################################
 ############# Connect Wifi and Testing ##################
 #########################################################
-#export Wi-Fi xml profile
-#netsh wlan export profile "NETGEAR61" key=clear folder=D:\
+#create Wi-Fi xml profile
+#netsh wlan export profile "NETGEAR61" key=clear folder=E:\
 
 #import the network profile
-#netsh wlan add profile filename="Wi-Fi-NETGEAR61" Interface="Wi-Fi" user=current
- 
+netsh wlan add profile filename="D:\Wi-Fi-NETGEAR61.xml" Interface="Wi-Fi" user=current
+netsh wlan add profile filename="E:\Wi-Fi-NETGEAR61.xml" Interface="Wi-Fi" user=current
 #connect WiFi
-#netsh wlan connect ssid= "NETGEAR61" name= "NETGEAR61" 
+netsh wlan connect ssid= "NETGEAR61" name= "NETGEAR61" 
 
 # ---------------------------------------------------------------------------------
 #This is where all the test will take place
