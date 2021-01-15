@@ -13,4 +13,7 @@ GitHub: https://github.com/MScholtes/TechNet-Gallery
 
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/CuongPhan090/WIndow_PC_Diagnostic_Utility/blob/master/diagnostic.png)
+
+![alt text](https://github.com/CuongPhan090/WIndow_PC_Diagnostic_Utility/blob/master/email.png)
+
