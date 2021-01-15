@@ -2,8 +2,11 @@
 This tool is designed to perform a quick test on windows-based laptop/desktop
 
 All test is included in diagnostic.ps1 such as wifi connectivity, sepaker, pixels, touchscreen, keyboard
+![alt text](https://github.com/CuongPhan090/WIndow_PC_Diagnostic_Utility/blob/master/diagnostic.png)
 
 email.ps1 file can be used to send email to a designated recipient with one click using smtp 
+![alt text](https://github.com/CuongPhan090/WIndow_PC_Diagnostic_Utility/blob/master/email.png)
+
 
 In order to run .PS1 file on powershell psi, the file needs to convert to .EXE file
 
@@ -13,7 +16,5 @@ GitHub: https://github.com/MScholtes/TechNet-Gallery
 
 
 
-![alt text](https://github.com/CuongPhan090/WIndow_PC_Diagnostic_Utility/blob/master/diagnostic.png)
 
-![alt text](https://github.com/CuongPhan090/WIndow_PC_Diagnostic_Utility/blob/master/email.png)
 
