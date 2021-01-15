@@ -1,7 +1,9 @@
 # Laptop_Diagnostic_Utility
 This tool is designed to perform a quick test on windows-based laptop/desktop
 
-The test includes wifi connectivity, sepaker, pixels, touchscreen, keyboard
+All test is included in diagnostic.ps1 such as wifi connectivity, sepaker, pixels, touchscreen, keyboard
+
+email.ps1 file can be used to send email to a designated recipient with one click using smtp 
 
 In order to run .PS1 file on powershell psi, the file needs to convert to .EXE file
 
